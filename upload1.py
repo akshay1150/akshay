@@ -14,7 +14,7 @@ app.config.update(
 	MAIL_PORT=465,
 	MAIL_USE_SSL=True,
 	MAIL_USERNAME = 'akshay11506024@gmail.com',
-	MAIL_PASSWORD = 'Rk@12345'
+	MAIL_PASSWORD = '*********'
 	)
 mail = Mail(app)
 @app.route("/upload")
